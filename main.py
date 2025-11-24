@@ -9,7 +9,7 @@ from asteroidfield import AsteroidField
 from Shot import Shot
 
 def main():
-    print("Starting asteroids!")
+    print("Starting Asteroids!")
     print("Screen height:", SCREEN_HEIGHT)
     print("Screen width:", SCREEN_WIDTH)
 
